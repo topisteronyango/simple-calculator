@@ -1,3 +1,3 @@
 # simple-calculator
 
-[Deployed Github Pages](https://topisteronyango.github.io/simple-calculator/)
+[Click here for the Deployed Github Pages Link](https://topisteronyango.github.io/simple-calculator/)
